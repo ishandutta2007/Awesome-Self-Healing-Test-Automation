@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Self-Healing-Test-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Self-Healing-Test-Automation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Self-Healing-Test-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Self-Healing-Test-Automation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🚀 **A curated directory of top Self-Healing Test Automation tools and frameworks** — spanning cutting-edge hosted enterprise SaaS platforms and leading open-source libraries that autonomously repair brittle UI locators, adapt to DOM changes, eliminate flaky tests, and slash QA maintenance overhead.
@@ -25,6 +26,8 @@
 - [📊 Comparison at a Glance](#-comparison-at-a-glance)
 - [🎯 Selection Guide & Best Practices](#-selection-guide--best-practices)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -199,6 +202,24 @@ Contributions are very welcome! If you know of an open-source tool, library, or 
 2. 🌿 Create a descriptive branch (`git checkout -b add-my-tool`).
 3. 📝 Add your tool in alphabetical/star-sorted order with clear technical details and links.
 4. 🚀 Submit a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting this project! If you find this curated list of Self-Healing Test Automation tools valuable, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** it to keep your own reference and contribute improvements
+- 📢 **Sharing** it with teammates, QA engineers, and testing communities
+- ☕ **Buying a coffee / sponsoring** the maintainer via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Every contribution and share helps sustain open-source curated engineering resources!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Self-Healing-Test-Automation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Self-Healing-Test-Automation&type=date&legend=top-left)
 
 ---
 
