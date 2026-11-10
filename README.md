@@ -103,7 +103,7 @@ The following table benchmarks leading commercial, cloud-hosted Self-Healing Tes
 
 ## 🟩 Open-Source Software
 
-The open-source self-healing test automation ecosystem features autonomous browser agents, Playwright-native AI layers, and Selenium proxy utilities. The list below is **sorted descending by GitHub Stars_Count**.
+The open-source self-healing test automation ecosystem features autonomous browser agents, Playwright-native AI layers, and Selenium proxy utilities. The list below is **sorted descending by GitHub_Stars_Count**.
 
 | Repository 📦 | GitHub_Stars ⭐ | Primary Stack 💻 | License 📜 | Architecture Approach 🔬 |
 |:---|:---|:---|:---|:---|
