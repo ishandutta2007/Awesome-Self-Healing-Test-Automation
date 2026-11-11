@@ -129,7 +129,7 @@
 
   <!-- Subtitle -->
   <text x="600" y="202" text-anchor="middle" fill="#94a3b8" font-size="18" font-weight="400" letter-spacing="0.2">
-    Autonomous Locator Recovery &bull; Intelligent Flakiness Elimination &bull; Zero-Maintenance QA
+    Autonomous Locator Recovery &#8226; Intelligent Flakiness Elimination &#8226; Zero-Maintenance QA
   </text>
 
   <!-- Feature Tags / Capabilities -->
